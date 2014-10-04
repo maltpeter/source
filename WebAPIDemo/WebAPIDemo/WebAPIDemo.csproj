@@ -164,7 +164,6 @@
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\OrderDetail.cs" />
     <Compile Include="Models\Repository.cs" />
-    <Compile Include="Models\Test.cs" />
     <Compile Include="Models\WebAPIDemoContext.cs" />
     <Compile Include="Models\WebAPIDemoContextInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
