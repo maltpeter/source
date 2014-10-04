@@ -34,3 +34,46 @@ c:\users\mike\documents\visual studio 2013\Projects\WebAPIDemo\WebAPIDemo\bin\En
 c:\users\mike\documents\visual studio 2013\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
 c:\users\mike\documents\visual studio 2013\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
 c:\users\mike\documents\visual studio 2013\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+C:\git\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\git\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+C:\git\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+C:\git\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+C:\git\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+C:\git\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.Web.Common.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.Web.Mvc.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\WebActivatorEx.dll
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.Web.Common.xml
+C:\git\WebAPIDemo\WebAPIDemo\bin\Ninject.Web.Mvc.xml
